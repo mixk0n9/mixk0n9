@@ -12,3 +12,4 @@
 - LLM and corporate matching service based on recommendation system
 - Analysis of traditional market problems using language models
 - Predicting Ecommerce Customer Churn Using MLOps
+- Predicting fire risk through current and voltage data analysis
