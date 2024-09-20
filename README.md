@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hello I'm minkyung 👋
 
-<!--
-**mixk0n9/mixk0n9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## :bulb:Interest:bulb:
+- Using language models and LLM
+- Anomaly detection using machine learning models
+- 
+## :computer: Project :computer:
+- Kakaogames bot detection 1
+- Kakaogames bot detection 2
+- LG Aimers 4th Hackathon
+- LG Aimers 5th Hackathon
+- LLM and corporate matching service based on recommendation system
+- Analysis of traditional market problems using language models
+- Predicting Ecommerce Customer Churn Using MLOps
