@@ -1,6 +1,6 @@
 # Hello I'm minkyung 👋
 
-## :bulb:Interest:bulb:
+## :bulb:Interests:bulb:
 - Detection analysis using machine learning and language models
 - Analysis using language models and LLM
   
