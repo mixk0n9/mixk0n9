@@ -5,8 +5,8 @@
 - Detection analysis using machine learning and language models
   
 ## :computer: Project :computer:
-- Kakaogames bot detection 1
-- Kakaogames bot detection 2
+- Kakaogames bot detection 1(from a revenue perspective)
+- Kakaogames bot detection 2(from a behavior perspective)
 - LG Aimers 4th Hackathon
 - LG Aimers 5th Hackathon
 - LLM and corporate matching service based on recommendation system
