@@ -1,8 +1,8 @@
 # Hello I'm minkyung 👋
 
 ## :bulb:Interest:bulb:
-- Analysis using language models and LLM
 - Detection analysis using machine learning and language models
+- Analysis using language models and LLM
   
 ## :computer: Project :computer:
 - Kakaogames bot detection 1(from a revenue perspective)
